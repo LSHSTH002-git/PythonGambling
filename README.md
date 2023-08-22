@@ -1,10 +1,10 @@
 # ES Games Gambling Machine - Proof of Concept
 
-Welcome to the ES Games Gambling Machine's Proof of Concept repository. In this project, we'll be implementing a gambling game that challenges users to guess a number. This project prioritizes responsible gaming and aims to provide an enjoyable experience without promoting reckless gambling behavior.
+Welcome to the ES Games Gambling Machine's Proof of Concept repository. In this project, a gambling game that challenges users to guess a number is implemented. This project prioritizes responsible gaming and aims to provide an enjoyable experience without promoting reckless gambling behavior.
 
 ## Project Overview
 
-In this two-week project, we will be implementing the logic and user feedback systems for ES Games's new gambling machine. The primary goal is to create a game where users can guess a number and receive immediate feedback through visual and auditory cues.
+The primary goal is to create a game where users can guess a number and receive immediate feedback through visual and auditory cues.
 
 ## Getting Started
 
@@ -36,15 +36,8 @@ Users will be prompted to guess a number within a specified range. The game will
 
 ### Responsible Gaming
 
-We acknowledge the importance of responsible gaming and prioritize user experience over reckless gambling. Our implementation seeks to provide an entertaining and engaging experience while discouraging unhealthy gambling habits.
+I acknowledge the importance of responsible gaming and prioritize user experience over reckless gambling. Our implementation seeks to provide an entertaining and engaging experience while discouraging unhealthy gambling habits.
 
-## Next Steps
-
-As part of the two-week timeframe, the following tasks should be completed:
-
-- Implement the logic for number guessing and feedback mechanisms.
-- Integrate LED blinking and buzzer ringing based on user guesses.
-- Test the implementation on the target hardware (Raspberry Pi 0).
 
 ## Resources
 
@@ -54,9 +47,7 @@ As part of the two-week timeframe, the following tasks should be completed:
 
 ## Contact
 
-If you have any questions or need assistance, feel free to reach out to our team:
+If you have any questions or need assistance, feel free to reach out:
+- S'thabiso Lushaba: lshsth002@myuct.ac.za
 
-- Project Manager: [Your Name](mailto:your.email@example.com)
-- Lead Developer: [Lead Developer's Name](mailto:lead.dev@example.com)
-
-We're excited to see your contributions to this Proof of Concept project. Let's create an engaging gambling experience that aligns with our values of responsible gaming.
+Let's create an engaging gambling experience that aligns with our values of responsible gaming.
